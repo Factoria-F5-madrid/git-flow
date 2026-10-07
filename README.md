@@ -1,6 +1,6 @@
 # git-flow
 
-<img src="https://www.zup.com.br/wp-content/uploads/2023/03/image1-2.png" style="width: 50%; height: auto;">
+<img src="https://www.gitkraken.com/wp-content/uploads/2021/03/git-flow-4.svg" style="width: 50%; height: auto;">
 
 https://learngitbranching.js.org/?locale=es_ES
 
